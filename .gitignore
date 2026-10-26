@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+lab1/result.txt
+lab1/.idea/
+lab1/.venv/
+lab1/lc.py
